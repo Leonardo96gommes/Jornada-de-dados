@@ -1,0 +1,3 @@
+SELECT * FROM tabela
+JOIN tabela2
+ORDER BY 1
