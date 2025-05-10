@@ -1,10 +1,9 @@
+SELECT 
+-- sql server, postegres, oracle, mysql
+SELECT coluna1,coluna2
+FROM tabela
+
 SELECT * 
-FROM  produtos 
-WHERE estoque > 10
+FROM tabela
 
-SELECT * FROM pedidos
-
-SELECT * FROM itens_pedido
-
-SELECT nome FROM usuarios
-
+SELECT FirstName, LastName
