@@ -13,12 +13,3 @@ INSERT INTO clientes (nome, cidade, idade) VALUES
 ('Carla Lima', 'Belo Horizonte', 22),
 ('Pedro Silva', 'São Paulo', 35),
 ('Lucas Araújo', 'Curitiba', 28);
-SELECT 
--- sql server, postegres, oracle, mysql
-SELECT coluna1,coluna2
-FROM tabela
-
-SELECT * 
-FROM tabela
-
-SELECT FirstName, LastName
